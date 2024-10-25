@@ -2,9 +2,11 @@
   "expo": {
     "name": "Myapp",
     "slug": "Myapp",
+    "scheme": "Myapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
+    "assets": ["./assets/fonts/Poppins-Regular.ttf"],
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
